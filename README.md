@@ -27,8 +27,9 @@
                       ao fundo, o visual é tão surreal que limpa tua alma.</font></p>  
                       <video src= "imgs/video.mp4" width="400"heigt="300" controls autoplat></video>
 
-                      <h2><font size="7" id="atri">A trilha:</font></h2>
-                      <p> <font size="5">São 15 km só de  ida iniciando na região de <br>
+  <h2><font size="7" id="atri">A trilha:</font></h2>
+                      
+   <p> <font size="5">São 15 km só de  ida iniciando na região de <br>
                         Brejal, Zona rural de Bananal, cidade do interior de São Paulo.<br>
                          Também é possível subir pela vila do Frade, em angra dos reis,<br>
                           mas por questões de segurança a primeira opção é melhor. </font></p> 
@@ -41,7 +42,7 @@
                             Também advertiu que constantemente aparecem onças na região.
                             </font></p> 
                            
-                            <div id="ladoalado"><div class="container"><img src="imgs/pousada 1.jpg"width="320"heigt="205"alt="Pousada Brejal"><img src="imgs/IMG-20190527-WA0192.jpg"width="320"heigt="205"></div> 
+   <div id="ladoalado"><div class="container"><img src="imgs/pousada 1.jpg"width="320"heigt="205"alt="Pousada Brejal"><img src="imgs/IMG-20190527-WA0192.jpg"width="320"heigt="205"></div> 
                             <h3><font size="5" id="est">Estrada</font></h3>
                             <p> <font size="5">Caminhamos por uma estrada até chegar em uma<br>
                                porteira de madeira, à esquerda que indica Pousada do Rio Mimoso<br>
@@ -69,7 +70,7 @@
                                   metemos o pé na lama). Cerca de 30 minutos desde o Rio Bonito, a trilha cruzará<BR>
                                      com outro rio, o Goiabeira, com uns 5 metros de largura.
                                 
-                               </font></p>
+  </font></p>
                                <div id="ladoalado"><div class="container"><img src="imgs/ESCAMPADO.jpg"width="320"heigt="205"alt="escampado"><img src="imgs/LAMA2.jpg"width="760"heigt="900"alt="escampado com lama"></div> 
                                <h3><font size="5">Mata adentro </font></h3>
                                <p> <font size="5"> Nessa fase inicia o maior trecho do trekking o qual é dentro da mata, <br>
@@ -86,7 +87,7 @@
                              </font></p>
                              <div class="container"><img src="imgs/gruta.jpg" width="350"heigt="600"alt="gruta do alemão"></div> 
 
-                             <h3><font size="5">Subida final</font></h3>
+   <h3><font size="5">Subida final</font></h3>
                              <p> <font size="5"> Após de subir por muitas raízes e pedra se chega em um mirante onde da para ver a<br>
                                pedra no seu maior esplendor e ai que iniciam os trechos técnicos, a maioria requerem muita força<br>
                                 nos braços para enfrentar as  escalaminhadas. </font></p>
@@ -96,7 +97,7 @@
                                   feita de bambu e corda, que de tão precária da a sensação que estávamos em um jogo de sorte pela vida mas<br>
                                    Deus sempre esta com nós e cuido da gente  nesse trecho.</font></p>
 
-                                   <div id="ladoalado"><div class="container"><img src="imgs/ESCADA.jpg"width="500"heigt="250"alt="subida de escalada nas escadas"><img src="imgs/ESCADA 2.jpg"width="400"heigt="250"alt="esperando subir"></div>
+   <div id="ladoalado"><div class="container"><img src="imgs/ESCADA.jpg"width="500"heigt="250"alt="subida de escalada nas escadas"><img src="imgs/ESCADA 2.jpg"width="400"heigt="250"alt="esperando subir"></div>
                                    <h3><font size="5">Chegada ao cume</font></h3>
                                    <p> <font size="5">Vencido o trecho final
                                     Depois de várias fotos e contemplações, armamos nossa barraca e fomos preparar nosso jantar, sob a luz <br>
@@ -109,15 +110,15 @@
                                     <div id="ladoalado"><div class="container"><img src="imgs/noite 1.jpg"width="500"heigt="250"alt="barraca"><img src="imgs/noite 2.jpg"width="600"heigt="400"alt="pôr do sol"></div>
                                     
 
-                                    <h2><font size="7"id="dicas">Dicas:</font></h2>
+  <h2><font size="7"id="dicas">Dicas:</font></h2>
                                     <ol><font size="5"><li> A trilha é pesada e a orientação é difícil. Não é uma trilha para iniciantes.<li> Sempre levar um kit de primeiros socorros e larterna.<li>Leve um reservatório grande de agua  para abastecer na Gruta do Alemão.<li> Levar comidas leves para fazer no cume. <li> Se tiver chovido, os trechos de descampado ficarão cheios de lama e charco.<li> Não faça essa trilha na estação de chuva.<li>Leve materiar de escalada para evitar usar as cordas velhas que estaõ perto do cume.<li> Na noite a temperatura desce bruscamente, então leve boa roupa para o frio.</font></ol>
                                       <h2><font size="7"id="participantes">Participantes:</font></h2>
                                       
 
-                                      <ul><li><a href="https://www.instagram.com/santos_rodrigo_81/?hl=pt-br" target="blank" rel="hoopener"> Rodrigo no instagram<div class="container"><img src="imgs/rodrigo_files/rodrigo i.png" width="200"heigt="200"alt="Aventureiro Rodrigo"></div>
+  <ul><li><a href="https://www.instagram.com/santos_rodrigo_81/?hl=pt-br" target="blank" rel="hoopener"> Rodrigo no instagram<div class="container"><img src="imgs/rodrigo_files/rodrigo i.png" width="200"heigt="200"alt="Aventureiro Rodrigo"></div>
                                         <li><a href="https://www.instagram.com/karli.diazf/?hl=pt-br" target="blank" rel="hoopener"> Karli no instagram<div class="container"><img src="imgs/karli1.jpg" width="200"heigt="200"alt="Aventureira Karli"></div>
  
-                                        <li><a href="https://www.instagram.com/dimii_swagger/?hl=pt-br" target="blank" rel="hoopener"> Dimii no instagram<div class="container"><img src="imgs/dimii.jpg" width="200"heigt="200"alt="aventureiro Dimmi"></div>
+  <li><a href="https://www.instagram.com/dimii_swagger/?hl=pt-br" target="blank" rel="hoopener"> Dimii no instagram<div class="container"><img src="imgs/dimii.jpg" width="200"heigt="200"alt="aventureiro Dimmi"></div>
                                           <li><a href="https://www.instagram.com/tati_rsl/?hl=pt-br" target="blank" rel="hoopener"> Tati no instagram<div class="container"><img src="imgs/tati.jpg" width="200"heigt="200"alt="aventureira Tati"> </div>
                                             <li><a href="https://www.instagram.com/p/B-oDZ0WlHZE/" target="blank" rel="hoopener"> Jefferson no instagram<div class="container"><img src="imgs/jeferson1.jpg" width="200"heigt="200"alt="aventureira jefferson"> 
                                           </div> </a></ul> 
@@ -128,6 +129,6 @@
                                         <div id="ladoalado"><div class="container"><img src="imgs/CAFE.jpg"width="500"heigt="350"alt="tati tomando cafe"><img src="imgs/amanhecer 2.jpg"width="500"heigt="350"alt="karli de meia"></div>
                                        
 
-                                      </p>
+   </p>
 </body>
 </html>
